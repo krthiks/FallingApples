@@ -5,7 +5,7 @@ public class Orange implements ITastyFruit {
 
 
 
-    private static final String NAME = "orange";
+    private static final String NAME = "orange veg";
     private static final int ROLL_MULTIPLIER = 101;
 
     public String getName() {
